@@ -1,3 +1,3 @@
-# Metnum_Pertemuan13_Flavianus_Putratama
-Flavianus Putratama - 21120122140105
+# Metnum_Pertemuan11_Listyawan_Femil_Anaki
+Listyawan Femil Anaki - 21120122140109
 Implementasi kode menggunakan metode simpson 1/3 pada program menggunakan bahasa python
